@@ -4,7 +4,7 @@ Engineer-in-Training (EIT) – Engineers Nova Scotia
 
 Electronics engineering professional interested in hardware testing, PCB design, electronic systems integration, troubleshooting and validation.
 
-Technical Interests
+**Technical Interests**
 
 Electronic Circuit Design
 
@@ -20,7 +20,7 @@ Electronic Control Panels
 
 Test Documentation and Validation
 
-Practical Projects
+**Practical Projects**
 
 I am currently developing hands-on projects to strengthen my practical electronics and hardware testing skills.
 
@@ -34,7 +34,7 @@ ESP32 Sensor Monitoring System
 
 PCB Design and Testing
 
-Professional Background
+**Professional Background**
 
 Electronics Control Panel Design
 
@@ -44,7 +44,7 @@ System Validation and Troubleshooting
 
 Electronics Engineering – B.Tech
 
-Location
+**Location**
 
 Halifax, Nova Scotia, Canada
 
